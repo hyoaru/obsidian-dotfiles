@@ -24,5 +24,8 @@
   "Yin and Yang@@spec-size-head": true,
   "Yin and Yang@@spec-font-head": true,
   "Yin and Yang@@spec-color-head": true,
-  "Yin and Yang@@base-h": 0
+  "Yin and Yang@@base-h": 0,
+  "Yin and Yang@@l-accent": "#000000",
+  "Yin and Yang@@em-color@@light": "#000000",
+  "Yin and Yang@@strong-color@@light": "#000000"
 }

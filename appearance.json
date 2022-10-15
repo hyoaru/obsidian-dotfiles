@@ -1,5 +1,8 @@
 {
   "baseFontSize": 16,
   "cssTheme": "Yin and Yang",
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "print-config"
+  ]
 }
