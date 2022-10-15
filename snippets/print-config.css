@@ -1,0 +1,8 @@
+@media print { 
+	body, th, em, strong, del, h1, h2, h3, h4, h5, pre, code, .token,
+	.markdown-preview-view ul>li.task-list-item.is-checked,
+	ol>li::marker, ul>li::marker, blockquote, .admonition {
+		background: white !important;
+		color: black !important;
+  	}
+}
