@@ -1,8 +1,17 @@
 {
   "baseFontSize": 16,
-  "cssTheme": "Yin and Yang",
+  "cssTheme": "",
   "theme": "obsidian",
   "enabledCssSnippets": [
-    "print-config"
-  ]
+    "app",
+    "print-config",
+    "heading-size",
+    "spacing",
+    "heading"
+  ],
+  "accentColor": "#ffffff",
+  "textFontFamily": "open sans",
+  "showViewHeader": true,
+  "nativeMenus": true,
+  "interfaceFontFamily": "Roboto"
 }
